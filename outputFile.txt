@@ -1,0 +1,18 @@
+Values in Registers:
+A : 50
+B : 00
+C : 00
+D : 00
+E : 00
+H : 00
+L : 00
+
+Values of Flags:
+Z  : 0
+S  : 0
+C  : 0
+P  : 0
+AC : 0
+
+Memory Locations Used:
+3000 : 50
